@@ -1,8 +1,9 @@
 <?php
 
   include "db/connect.php";
+  include "resources/config.php";
 
-  $sql = "SELECT * FROM forum;";
+  $sql = "SELECT * FROM " . $config->database;
 
   $stmt = $conn->prepare($sql);
 
