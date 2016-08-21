@@ -12,4 +12,14 @@
 
   );";
 
+  $stmt = $conn->prepare($sql);
+
+  $stmt->execute();
+
+  $stmt->close();
+
+  $conn->close();
+
+  echo "Successfully created table forum.";
+
 ?>
