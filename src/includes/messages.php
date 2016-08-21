@@ -3,7 +3,7 @@
   include "db/connect.php";
   include "resources/config.php";
 
-  $sql = "SELECT * FROM " . $config->database;
+  $sql = "SELECT * FROM forum";
 
   $stmt = $conn->prepare($sql);
 
