@@ -1,6 +1,6 @@
 <?php
 
-  $config = [
+  $config = json_encode(array(
 
     "host" => "localhost",
 
@@ -10,8 +10,8 @@
 
     "database" => "forum"
 
-  ];
+  ));
 
-  $config = json_encode($config);
+  $config = json_decode($config);
 
 ?>
