@@ -9,3 +9,6 @@ My own (very basic) forum software.
 ##No. 3: Start it up, visit init.php in your web browser(or run from your CLI).
 
 ##No. 4: Enjoy this very basic software. ;)
+
+# To-do's:
+- [ ] ##Add support for categories/threads.
