@@ -10,5 +10,7 @@ My own (very basic) forum software.
 
 ##No. 4: Enjoy this very basic software. ;)
 
+##Extra: to delete all entries simply visit empty.php in your web browser(or run from your CLI).
+
 # To-do's:
 - [ ] Add support for categories/threads.
