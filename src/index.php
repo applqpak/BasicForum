@@ -1,3 +1,9 @@
+<?php
+
+  include "includes/messages.php";
+
+?>
+
 <!DOCTYPE html>
 
   <html>
