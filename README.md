@@ -11,4 +11,4 @@ My own (very basic) forum software.
 ##No. 4: Enjoy this very basic software. ;)
 
 # To-do's:
-- [ ] ##Add support for categories/threads.
+## - [ ] Add support for categories/threads.
