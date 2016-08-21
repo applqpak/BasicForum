@@ -12,4 +12,6 @@
 
   $conn->close();
 
+  echo "All entries have been deleted.";
+
 ?>
